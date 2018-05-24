@@ -34,11 +34,18 @@ class: impact
 
 ---
 
-### Relació amb Katuma Portugal
+### Estat d'Open Food Network
 
 ---
 
-### Estat d'Open Food Network
+### Relació amb Katuma Portugal
+
+* Compartim infraestructura
+* Proves pilot amb AMAPs de Porto
+* Indaguen la seva futura estructura formal
+* Aporten desenvolupadors a Open Food Network
+
+.right.pull-right[![](images/katuma_portugal.png)]
 
 ---
 
