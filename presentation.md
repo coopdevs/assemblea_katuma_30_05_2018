@@ -59,13 +59,22 @@ class: impact
 
 class: middle
 
-.big[9.711€ recaptats durant 80 dies!]
+.big[114 cofinançadors]<br>
+.big[9 dies en arribar al mínim]
+
+---
+
+class: middle
+
+.huge[9.711€ recaptats durant 80 dies!]
 
 ---
 
 class: impact
 
-# Felicitem-nos! 🎉
+background-image: url('images/confeti.jpg')
+
+# Felicitem-nos!
 
 ---
 
