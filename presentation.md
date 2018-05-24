@@ -10,6 +10,8 @@ class: impact
 
 ---
 
+class: impact
+
 ## Introducció
 
 ---
@@ -49,17 +51,37 @@ class: impact
 
 ---
 
+class: impact
+
 ## Resultats del matchfunding
 
 ---
+
+class: middle
+
+.big[9.711€ recaptats durant 80 dies!]
+
+---
+
+class: impact
+
+# Felicitem-nos! 🎉
+
+---
+
+class: impact
 
 ## Pla de viabilitat
 
 ---
 
+class: impact
+
 ## Proposta d’estatuts
 
 ---
+
+class: impact
 
 ## Consell rector
 
