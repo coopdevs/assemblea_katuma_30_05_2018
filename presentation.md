@@ -12,6 +12,8 @@ class: impact
 
 class: impact
 
+background-image: url('images/door.jpg')
+
 ## Introducció
 
 ---
@@ -53,6 +55,8 @@ class: impact
 
 class: impact
 
+background-image: url('images/cash_register.jpg')
+
 ## Resultats del matchfunding
 
 ---
@@ -80,6 +84,8 @@ background-image: url('images/confeti.jpg')
 
 class: impact
 
+background-image: url('images/runway.jpg')
+
 ## Pla de viabilitat
 
 ---
@@ -92,6 +98,8 @@ class: middle
 
 class: impact
 
+background-image: url('images/dashboard.jpg')
+
 ## Proposta d’estatuts
 
 ---
@@ -103,6 +111,8 @@ class: middle
 ---
 
 class: impact
+
+background-image: url('images/rowboat.jpg')
 
 ## Consell rector
 
