@@ -84,9 +84,21 @@ class: impact
 
 ---
 
+class: middle
+
+.big[Explicació del pla]
+
+---
+
 class: impact
 
 ## Proposta d’estatuts
+
+---
+
+class: middle
+
+.big[Explicació de la proposta]
 
 ---
 
