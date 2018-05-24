@@ -21,9 +21,16 @@ class: impact
 
 ### Tasques des de la darrera assemblea
 
+--
 * Petites passes en la traducció al català
+
+--
 * Participació a projectes Singulars
+
+--
 * Col·laboració amb el districte de l'Eixample
+
+--
 * Millora de www.katuma.org
 
 ---
