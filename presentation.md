@@ -116,6 +116,7 @@ background-image: url('images/cash_register.jpg')
 class: middle
 
 .big[114 cofinançadors]<br>
+.big[26 han renunciat a recompensa]<br>
 .big[9 dies en arribar al mínim]
 
 ---
@@ -131,6 +132,18 @@ class: impact
 background-image: url('images/confeti.jpg')
 
 # Felicitem-nos!
+
+---
+
+## Dades
+
+![](images/origin_project_visits.png)
+
+---
+
+## Dades
+
+![](images/origin_project_contributions.png)
 
 ---
 
