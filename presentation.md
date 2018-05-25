@@ -21,6 +21,9 @@ background-image: url('images/door.jpg')
 ### Tasques des de la darrera assemblea
 
 --
+* Full de ruta 2018
+
+--
 * Tasques de comunicació
 
 --
@@ -46,6 +49,13 @@ background-image: url('images/door.jpg')
 class: middle
 
 més de 120h dedicades per l'equip impulsor
+
+---
+
+### Malauradament...
+
+* **Grups de treball més enllà del Matchfunding**
+* **Llistes de correu**
 
 ---
 
