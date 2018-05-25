@@ -114,6 +114,12 @@ class: middle
 
 ---
 
+class: middle
+
+.big[Debat]
+
+---
+
 class: impact
 
 background-image: url('images/dashboard.jpg')
@@ -125,6 +131,12 @@ background-image: url('images/dashboard.jpg')
 class: middle
 
 .big[Explicació de la proposta]
+
+---
+
+class: middle
+
+.big[Debat]
 
 ---
 
