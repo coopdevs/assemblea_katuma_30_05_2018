@@ -21,6 +21,15 @@ background-image: url('images/door.jpg')
 ### Tasques des de la darrera assemblea
 
 --
+* Tasques de comunicació
+
+--
+* Contacte amb actores del sector
+
+--
+* Acompanyament a grups i productors
+
+--
 * Petites passes en la traducció al català
 
 --
