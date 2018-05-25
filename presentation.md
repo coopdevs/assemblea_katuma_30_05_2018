@@ -42,6 +42,18 @@ més de 120h dedicades per l'equip impulsor
 
 ### Xifres d'ús
 
+Indicadors claus de rendiment diàris
+
+![](images/daily_kpis.png)
+
+---
+
+### Xifres d'ús
+
+Nombres absoluts
+
+![](images/absolute_numbers.png)
+
 ---
 
 ### Estat d'Open Food Network
