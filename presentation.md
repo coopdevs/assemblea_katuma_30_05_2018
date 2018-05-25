@@ -67,6 +67,21 @@ Nombres absoluts
 
 ### Estat d'Open Food Network
 
+--
+* Únic equip de desenvolupament
+
+--
+* Millora en l'organització de la feina
+
+--
+* Versió nova cada dues setmanes
+
+--
+* Estandarització de la infraestructura
+
+--
+* Sessions de treball de futures funcionalitats
+
 ---
 
 ### Relació amb Katuma Portugal
