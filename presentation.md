@@ -34,6 +34,12 @@ background-image: url('images/door.jpg')
 
 ---
 
+class: middle
+
+més de 120h dedicades per l'equip impulsor
+
+---
+
 ### Xifres d'ús
 
 ---
