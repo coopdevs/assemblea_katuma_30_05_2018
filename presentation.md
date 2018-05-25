@@ -124,6 +124,7 @@ class: middle
 class: middle
 
 .huge[9.711€ recaptats durant 80 dies!]
+*7.924,72€ de benefici*
 
 ---
 
