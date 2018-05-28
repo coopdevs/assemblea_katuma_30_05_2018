@@ -88,6 +88,12 @@ class: middle
 --
 * Sessions de treball de futures funcionalitats
 
+--
+* OFN Estats Units i OFN Alemanya iniciant-se
+
+--
+* Contactes amb possibles OFN Bèlgica i OFN Itàlia
+
 ---
 
 ### Relació amb Katuma Portugal
