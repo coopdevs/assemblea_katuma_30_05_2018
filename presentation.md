@@ -48,28 +48,24 @@ background-image: url('images/door.jpg')
 
 class: middle
 
-més de 120h dedicades per l'equip impulsor
+.big[més de 120h dedicades]
 
 ---
 
 ### Malauradament...
 
-* **Grups de treball més enllà del Matchfunding**
-* **Llistes de correu**
+* ~~Grups de treball més enllà del Matchfunding~~
+* ~~Llistes de correu~~
 
 ---
 
 ### Xifres d'ús
 
-Indicadors claus de rendiment diàris
-
-![](images/daily_kpis.png)
+.center[![](images/daily_kpis.png)]
 
 ---
 
 ### Xifres d'ús
-
-Nombres absoluts
 
 ![](images/absolute_numbers.png)
 
@@ -96,12 +92,14 @@ Nombres absoluts
 
 ### Relació amb Katuma Portugal
 
+.col-6[
 * Compartim infraestructura
 * Proves pilot amb AMAPs de Porto
-* Indaguen la seva futura estructura formal
-* Aporten desenvolupadors a Open Food Network
+* Indaguen la seva futura<br>estructura formal
+* Aporten desenvolupadors a<br>Open Food Network
+]
 
-.right.pull-right[![](images/katuma_portugal.png)]
+![](images/katuma_portugal.png)
 
 ---
 
@@ -123,8 +121,8 @@ class: middle
 
 class: middle
 
-.huge[9.711€ recaptats durant 80 dies!]
-*7.924,72€ de benefici*
+<p>.huge[9.711€* recaptats durant 80 dies!]</p>
+7.924,72€ de benefici
 
 ---
 
@@ -138,13 +136,13 @@ background-image: url('images/confeti.jpg')
 
 ## Dades
 
-![](images/origin_project_visits.png)
+.center[![](images/origin_project_visits.png)]
 
 ---
 
 ## Dades
 
-![](images/origin_project_contributions.png)
+.center[![](images/origin_project_contributions.png)]
 
 ---
 
