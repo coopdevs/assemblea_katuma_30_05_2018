@@ -36,13 +36,13 @@ background-image: url('images/door.jpg')
 * Petites passes en la traducció al català
 
 --
-* Participació a projectes Singulars
-
---
-* Col·laboració amb el districte de l'Eixample
+* Participació a "Mercat Cooperatiu Ecològic"
 
 --
 * Millora de www.katuma.org
+
+--
+* Col·laboració amb el districte de l'Eixample
 
 ---
 
