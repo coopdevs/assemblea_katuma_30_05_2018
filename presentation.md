@@ -12,7 +12,7 @@ class: impact
 
 class: impact
 
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url('images/door.jpg')
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/door.jpg)
 
 ## Introducció
 
@@ -111,7 +111,7 @@ class: middle
 
 class: impact
 
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url('images/cash_register.jpg')
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/cash_register.jpg)
 
 ## Resultats del matchfunding
 
@@ -134,7 +134,7 @@ class: middle
 
 class: impact
 
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url('images/confeti.jpg')
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/confeti.jpg)
 
 # Felicitem-nos!
 
@@ -154,7 +154,7 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 class: impact
 
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url('images/runway.jpg')
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/runway.jpg)
 
 ## Pla de viabilitat
 
@@ -174,7 +174,7 @@ class: middle
 
 class: impact
 
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url('images/dashboard.jpg')
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/dashboard.jpg)
 
 ## Proposta d’estatuts
 
@@ -194,7 +194,7 @@ class: middle
 
 class: impact
 
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url('images/rowboat.jpg')
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/rowboat.jpg)
 
 ## Consell rector
 
