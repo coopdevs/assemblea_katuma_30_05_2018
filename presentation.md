@@ -20,6 +20,10 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 ### Tasques des de la darrera assemblea
 
+???
+* Full de ruta gira al voltant de la implicació de la comunitat, el projecte empresarial i enllestir el producte mínim viable.
+* L'eix el primer trimestre ha estat la comunitat.
+
 --
 * Full de ruta 2018
 
@@ -35,14 +39,31 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 --
 * Petites passes en la traducció al català
 
+???
+* Nosaltres anem desbordats i el temps per traduir és temps que treiem d'altres coses.
+* Hem contactat un parell de persones però s'hi ha d'estar a sobre.
+
 --
 * Participació a "Mercat Cooperatiu Ecològic"
+
+???
+* Es tracta d'un projecte Singular en el marc del Cercle de Consum de Coòpolis
+* Hem redactat un dossier d'eines TIC per a grups i fem tallers
 
 --
 * Millora de www.katuma.org
 
+???
+* Necessari per fer comunicació en motiu del matchfunding
+* Ens ha servit d'excusa per millorar-ne l'efectivitat i estil
+
 --
 * Col·laboració amb el districte de l'Eixample
+
+???
+* Només parlant-ne: 3 tallers/jornades a grups
+* Hem passat pressupost orientatiu. Inclou impressió material
+* Una altra excusa per pagar material gràfic
 
 ---
 
