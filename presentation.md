@@ -199,3 +199,12 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 ## Consell rector
 
 
+---
+
+class: impact
+
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/plates.jpg)
+
+## Preguntes
+
+---
