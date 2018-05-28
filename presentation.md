@@ -198,6 +198,19 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 ## Consell rector
 
+---
+
+class: middle
+
+.big[Entitats sòcies]
+
+---
+
+## Càrrecs
+
+* President
+* Secretari
+* Tresorer
 
 ---
 
