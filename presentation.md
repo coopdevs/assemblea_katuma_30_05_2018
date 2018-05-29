@@ -44,7 +44,7 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 * Hem contactat un parell de persones però s'hi ha d'estar a sobre.
 
 --
-* Participació a "Mercat Cooperatiu Ecològic"
+* Acompanyament des del Cercle de Consum
 
 ???
 * Es tracta d'un projecte Singular en el marc del Cercle de Consum de Coòpolis
