@@ -76,7 +76,7 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 class: middle
 
-.big[més de 120h dedicades]
+.big[més de 172h dedicades]
 
 ---
 
