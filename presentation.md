@@ -208,33 +208,13 @@ class: impact
 
 background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/runway.jpg)
 
-## Pla de viabilitat
+## Fundació de Katuma SCCL
 
 ---
 
-class: middle
+### Pla de viabilitat
 
-.big[Explicació del pla]
-
----
-
-class: middle
-
-.big[Debat]
-
----
-
-class: impact
-
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/dashboard.jpg)
-
-## Proposta d’estatuts
-
----
-
-class: middle
-
-.big[Explicació de la proposta]
+Explicació
 
 ---
 
@@ -244,25 +224,30 @@ class: middle
 
 ---
 
-class: impact
+### Proposta d’estatuts
 
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/rowboat.jpg)
-
-## Consell rector
+Explicació
 
 ---
 
 class: middle
 
-.big[Format per entitats sòcies]
+.big[Debat]
 
 ---
 
-## Càrrecs
+### Consell rector
+
+Explicació
+
+---
+
+### Consell rector
+
+Format per entitats sòcies
 
 * President
 * Secretari
-* Tresorer
 
 ---
 
