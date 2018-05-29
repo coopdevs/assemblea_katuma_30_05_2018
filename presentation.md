@@ -117,6 +117,37 @@ class: middle
 
 ---
 
+class: middle
+
+Fons 2018<br>
+.bold[.huge[169.466€]]
+
+---
+
+class: middle
+
+.col-3[
+França<br>
+.bold[.huge[101.918€]]
+]
+
+.col-9[
+Canadà<br>
+.bold[.huge[10.600€]]
+]
+
+.col-3[
+Regne Unit<br>
+.bold[.huge[8.173€]]
+]
+
+.col-6[
+Austràlia<br>
+.bold[.huge[4.140€]]
+]
+
+---
+
 ### Relació amb Katuma Portugal
 
 .col-6[
