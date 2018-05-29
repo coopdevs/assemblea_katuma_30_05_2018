@@ -253,9 +253,9 @@ Explicació
 
 ---
 
-class: middle
+### Pla de viabilitat
 
-.big[Debat]
+Debat
 
 ---
 
@@ -265,9 +265,9 @@ Explicació
 
 ---
 
-class: middle
+### Proposta d’estatuts
 
-.big[Debat]
+Debat
 
 ---
 
@@ -283,6 +283,12 @@ Format per entitats sòcies
 
 * President
 * Secretari
+
+---
+
+### Consell rector
+
+Propostes
 
 ---
 
