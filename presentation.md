@@ -247,6 +247,12 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 ---
 
+class: middle
+
+.big[Acompanyament del **Cercle de Consum** i el projecte singular **Mercat Cooperatiu Ecològic**]
+
+---
+
 ### Pla de viabilitat
 
 Explicació
