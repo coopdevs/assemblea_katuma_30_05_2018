@@ -20,6 +20,10 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 ### Tasques des de la darrera assemblea
 
+???
+* Full de ruta gira al voltant de la implicació de la comunitat, el projecte empresarial i enllestir el producte mínim viable.
+* L'eix el primer trimestre ha estat la comunitat.
+
 --
 * Full de ruta 2018
 
@@ -35,20 +39,31 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 --
 * Petites passes en la traducció al català
 
+???
+* Nosaltres anem desbordats i el temps per traduir és temps que treiem d'altres coses.
+* Hem contactat un parell de persones però s'hi ha d'estar a sobre.
+
 --
 * Participació a "Mercat Cooperatiu Ecològic"
+
+???
+* Es tracta d'un projecte Singular en el marc del Cercle de Consum de Coòpolis
+* Hem redactat un dossier d'eines TIC per a grups i fem tallers
 
 --
 * Millora de www.katuma.org
 
+???
+* Necessari per fer comunicació en motiu del matchfunding
+* Ens ha servit d'excusa per millorar-ne l'efectivitat i estil
+
 --
 * Col·laboració amb el districte de l'Eixample
 
----
-
-class: middle
-
-.big[més de 120h dedicades]
+???
+* Només parlant-ne: 3 tallers/jornades a grups
+* Hem passat pressupost orientatiu. Inclou impressió material
+* Una altra excusa per pagar material gràfic
 
 ---
 
@@ -59,15 +74,56 @@ class: middle
 
 ---
 
+class: middle
+
+.big[més de 120h dedicades]
+
+---
+
 ### Xifres d'ús
 
 .center[![](images/daily_kpis.png)]
 
 ---
 
+Volum de comandes setmanals<br>
+.bold[.huge[484.42€]]
+
+![](images/sum_item_total_by_week.png)
+
+---
+
 ### Xifres d'ús
 
-![](images/absolute_numbers.png)
+.center[![](images/absolute_numbers.png)]
+
+---
+
+#### Productors en ús
+
+* Cooperativa de Consum El Cabàs (Ca la Sisqueta)
+* Faves Comptades
+* Grup de consum La Panarra
+* Panxacontenta
+* Grup de Consum El Cabàs (Ateneu)
+* Ridorta.Grup de consum ecològic d'Horta
+* La bastida
+* A Gradicela
+* R.C.V. Central de Abastecimiento
+* Horta da Partilha
+
+---
+
+#### Grups en ús
+
+* L'Estol ecològic
+* Pagerols agricultura b.i.o...agradable
+* Conreu Sereny
+* L'Aresta Cooperativa
+* A Gradicela
+* Arqueixal
+* Horta da Partilha
+* R.C.V. Central de Abastecimiento
 
 ---
 
@@ -93,6 +149,37 @@ class: middle
 
 --
 * Contactes amb possibles OFN Bèlgica i OFN Itàlia
+
+---
+
+class: middle
+
+Fons 2018<br>
+.bold[.huge[169.466€]]
+
+---
+
+class: middle
+
+.col-3[
+França<br>
+.bold[.huge[101.918€]]
+]
+
+.col-9[
+Canadà<br>
+.bold[.huge[10.600€]]
+]
+
+.col-3[
+Regne Unit<br>
+.bold[.huge[8.173€]]
+]
+
+.col-6[
+Austràlia<br>
+.bold[.huge[4.140€]]
+]
 
 ---
 
@@ -156,61 +243,52 @@ class: impact
 
 background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/runway.jpg)
 
-## Pla de viabilitat
+## Fundació de Katuma SCCL
 
 ---
 
-class: middle
+### Pla de viabilitat
 
-.big[Explicació del pla]
-
----
-
-class: middle
-
-.big[Debat]
+Explicació
 
 ---
 
-class: impact
+### Pla de viabilitat
 
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/dashboard.jpg)
-
-## Proposta d’estatuts
+Debat
 
 ---
 
-class: middle
+### Proposta d’estatuts
 
-.big[Explicació de la proposta]
-
----
-
-class: middle
-
-.big[Debat]
+Explicació
 
 ---
 
-class: impact
+### Proposta d’estatuts
 
-background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/rowboat.jpg)
-
-## Consell rector
+Debat
 
 ---
 
-class: middle
+### Consell rector
 
-.big[Format per entitats sòcies]
+Explicació
 
 ---
 
-## Càrrecs
+### Consell rector
+
+Format per entitats sòcies
 
 * President
 * Secretari
-* Tresorer
+
+---
+
+### Consell rector
+
+Propostes
 
 ---
 
