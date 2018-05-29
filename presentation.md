@@ -86,9 +86,44 @@ class: middle
 
 ---
 
+Volum de comandes setmanals<br>
+.bold[.huge[484.42€]]
+
+![](images/sum_item_total_by_week.png)
+
+---
+
 ### Xifres d'ús
 
-![](images/absolute_numbers.png)
+.center[![](images/absolute_numbers.png)]
+
+---
+
+#### Productors en ús
+
+* Cooperativa de Consum El Cabàs (Ca la Sisqueta)
+* Faves Comptades
+* Grup de consum La Panarra
+* Panxacontenta
+* Grup de Consum El Cabàs (Ateneu)
+* Ridorta.Grup de consum ecològic d'Horta
+* La bastida
+* A Gradicela
+* R.C.V. Central de Abastecimiento
+* Horta da Partilha
+
+---
+
+#### Grups en ús
+
+* L'Estol ecològic
+* Pagerols agricultura b.i.o...agradable
+* Conreu Sereny
+* L'Aresta Cooperativa
+* A Gradicela
+* Arqueixal
+* Horta da Partilha
+* R.C.V. Central de Abastecimiento
 
 ---
 
