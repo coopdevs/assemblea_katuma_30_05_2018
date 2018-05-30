@@ -97,6 +97,11 @@ Volum de comandes setmanals<br>
 
 .center[![](images/absolute_numbers.png)]
 
+???
+* Actiu vol dir que ha provat almenys un cop el sistema, creant un cicle de
+comanda
+* Ho proven més productors que grups, en la línia de la investigació d'en Ricard
+
 ---
 
 #### Grups en ús
@@ -111,6 +116,11 @@ Volum de comandes setmanals<br>
 * A Gradicela
 * R.C.V. Central de Abastecimiento
 * Horta da Partilha
+
+???
+* A l'hora de l'ús habitual hi ha més grups que productors, perquè el productors
+    intenten que tot els seus grups facin servir Katuma. És el cas de Pagerols
+    i Conreu Sereny.
 
 ---
 
@@ -157,6 +167,13 @@ class: middle
 Fons 2018<br>
 .bold[.huge[169.466€]]
 
+???
+* Xifra total anual sumant les aportacions fetes i acordades per totes les
+    instàncies
+* Això però no dóna per desenvolupar tot l'any.
+* Per molt que reduíssim l'equip i per tant anéssim més lents, cada productor
+    o grup pel seu compte no podria assumir res semblant.
+
 ---
 
 class: middle
@@ -180,6 +197,10 @@ Regne Unit<br>
 Austràlia<br>
 .bold[.huge[4.140€]]
 ]
+
+???
+* Cada instància està aportant el que bonament pot
+* Katuma haurà de fer el mateix
 
 ---
 
@@ -231,11 +252,20 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 .center[![](images/origin_project_visits.png)]
 
+???
+* Mai hem fet res a FB i vam obrir la pàgina pel matchfunding
+* Ha quedat palès que té més pes que Twitter pel públic al que ens adrecem.
+
 ---
 
 ## Dades
 
 .center[![](images/origin_project_contributions.png)]
+
+???
+* Goteo ja avisa que les aníliques que tenen són orientatives
+* No en podem treure cap conclusió
+* Sí que podem veure que afegir el widget de Goteo a la web va ser bona idea
 
 ---
 
