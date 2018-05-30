@@ -298,34 +298,66 @@ Debat
 
 ### Proposta d’estatuts
 
-Explicació
+Objecte social
 
 ---
 
 ### Proposta d’estatuts
 
-Debat
+Tipologia de socis
+
+* Col·laboradors
+* Socis consum/ productores o socis de compra/venda.
 
 ---
 
 ### Consell rector
 
-Explicació
+Composició
 
 ---
 
 ### Consell rector
 
-Format per entitats sòcies
+Càrrecs
 
 * President
 * Secretari
+* Tresorer
+* Vocal
 
 ---
 
 ### Consell rector
 
-Propostes
+Renovació dels càrrecs
+
+---
+
+### Consell rector
+
+Obligacions
+
+---
+
+### Consell rector
+
+Candidatures
+
+---
+
+### Admisió de nous socis
+
+Alta de soci
+
+* Persona física
+* Persona jurídica
+
+---
+
+### Admisió de nous socis
+
+Quota d'alta segons tipologia de soci
 
 ---
 
