@@ -201,6 +201,7 @@ Austràlia<br>
 ???
 * Cada instància està aportant el que bonament pot
 * Katuma haurà de fer el mateix
+* Aquestes instàncies fant possible l'existència del software
 
 ---
 
