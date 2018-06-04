@@ -307,7 +307,7 @@ Objecte social
 Tipologia de socis
 
 * Col·laboradors
-* Socis productors o de venda
+* Socis productors o de compra
 
 ---
 
